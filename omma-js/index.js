@@ -70,8 +70,3 @@ const deletarReceita = (id) => {
 deletarReceita(1);
 
 console.log(listaDeReceitas);
-
-   console.log(ListaDeReceitas);
-
-
-
